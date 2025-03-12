@@ -6,7 +6,7 @@ gem "dotenv-rails", "~> 2.1", ">= 2.1.1"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", require: false
-gem "rails", "~> 8.0.1"
+gem "rails", "~> 8.0.2"
 gem "pg", "~> 1.1"
 gem "propshaft"
 gem "puma", ">= 5.0"
