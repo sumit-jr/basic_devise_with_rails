@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "bootsnap", require: false
 gem "devise", "~> 4.9", ">= 4.9.3"
-gem "dotenv-rails", "~> 2.1", ">= 2.1.1"
+gem "dotenv-rails", "~> 3.1"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", require: false
